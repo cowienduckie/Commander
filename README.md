@@ -1,5 +1,6 @@
 # Commander
- Learning .NET core 3.1 WebAPI
+ Learning .NET core 3.1 WebAPI <br>
+ Source: [Les Jackson's course](https://www.youtube.com/watch?v=fmvcAzHpsk8&t=11019s)
 
 1. Update connectionString in appSetting to Connect DB
 ```
