@@ -12,4 +12,5 @@ dotnet tool install --version 3.1.23 --global dotnet-ef
 3. Update database
 ```
 dotnet ef database update
-```  
+```
+4. Seed data for database
